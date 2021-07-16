@@ -1,0 +1,26 @@
+open google
+google
+good morning
+write note
+read note
+open youtube
+open github
+change voice
+music
+play video ----play video
+search file ---- search any file on computer
+what is time ----- for time
+open chrome
+close chrome
+shutdown computer------- for shutdown computer
+open cmd   --------- run any cmd command follow his command
+what is my father name
+what is my mother name
+what is my sister name
+what is my girl friend name
+remove father name
+close,bye,quit     ----   for close app
+wikipedia
+search any quray in wikipedia
+search any quray in google
+search any quray in youtube

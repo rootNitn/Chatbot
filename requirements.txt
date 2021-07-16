@@ -1,0 +1,9 @@
+pyttsx3
+datetime
+speech_recognition
+wikipedia
+webbrowser
+numpy
+string
+urllib.request
+pyaudio
